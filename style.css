@@ -1,0 +1,28 @@
+.centrar{
+  text-align: center;
+  margin: 50px 0px;
+}
+.btn {
+  display: inline-block;
+  font-size: 18px;
+  color: #FFFFFF;
+  background-color: blue;
+  padding: 13px 20px;
+  margin-right: 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #65B9F4;
+  color: #333;
+ }
+
+ #input-nueva-palabra{
+  width: 500px;
+  height: 30px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #66727D;
+  border-radius: 5px;
+ }
